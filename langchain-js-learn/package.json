@@ -1,0 +1,21 @@
+{
+  "name": "langchain-js-learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "@langchain/community": "^0.3.34",
+    "@langchain/core": "^0.3.42",
+    "@langchain/langgraph": "^0.2.54",
+    "@langchain/openai": "^0.4.4",
+    "dotenv": "^16.4.7",
+    "langchain": "^0.3.19"
+  }
+}
